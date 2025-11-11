@@ -13,12 +13,10 @@
 
 Selamat datang di repositori Flutter-TDD-Clean-Architecture-E-Commerce-App! Proyek ini adalah etalase praktik pengembangan aplikasi seluler modern, yang memanfaatkan kekuatan Flutter, Test-Driven Development (TDD), Clean Architecture, dan paket BLoC (Business Logic Component). Dibangun menggunakan Flutter 3 versi terbaru, aplikasi E-Commerce ini mencontohkan praktik terbaik untuk membangun aplikasi Flutter yang scalable (mudah dikembangkan), maintainable (mudah dirawat), dan efisien.
 
-## Key Features:
-
-* **Test-Driven Development (TDD)**: This project emphasizes the importance of writing tests before writing the actual code. It ensures that the application's logic is thoroughly tested, enhancing reliability and maintainability.
-* **Clean Architecture**: The app follows a clean and modular architecture that separates concerns into different layers: Presentation, Domain, and Data. This architecture promotes code reusability and makes it easier to adapt to changes in the future.
-* **BLoC State Management**: The app utilizes the BLoC pattern for state management. BLoC helps manage the flow of data and business logic in a clean and reactive manner, improving overall app performance.
-* **E-Commerce Functionality**: The app showcases a variety of E-Commerce features, such as product browsing, searching, cart and purchasing. Users can explore products, add them to their cart, and complete transactions seamlessly.
+## Fitu Utama::
+* **Arsitektur Bersih (Clean Architecture)**:Aplikasi ini mengikuti arsitektur modular yang memisahkan fokus (SoC) ke dalam lapisan-lapisan berbeda: Presentation, Domain, dan Data. Arsitektur ini mendukung penggunaan ulang kode dan memudahkan adaptasi terhadap perubahan di masa depan.
+* **Managemen Status BLoC**: Aplikasi ini menggunakan pola BLoC untuk manajemen status. BLoC membantu mengelola aliran data dan logika bisnis secara bersih dan reaktif, meningkatkan kinerja aplikasi secara keseluruhan.
+* **FUngsionalitas E-Commerce**: Aplikasi ini menampilkan berbagai fitur E-Commerce, seperti penjelajahan produk, pencarian, keranjang, dan pembelian. Pengguna dapat menjelajahi produk, menambahkannya ke keranjang, dan menyelesaikan transaksi dengan lancar.
 <!-- Features -->
 ---
 | Feature       | UseCases                                                                                                                                                                                                   |
