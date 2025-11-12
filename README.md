@@ -11,7 +11,7 @@
 ![Deskripsi Gambar Anda](https://drive.google.com/file/d/1CerkuXoylQWryg-XSiraTqvwHKqWSOE3/view?usp=sharing)
 
 
-Selamat datang di repositori Flutter-TDD-Clean-Architecture-E-Commerce-App! Proyek ini adalah etalase praktik pengembangan aplikasi seluler modern, yang memanfaatkan kekuatan Flutter, Test-Driven Development (TDD), Clean Architecture, dan paket BLoC (Business Logic Component). Dibangun menggunakan Flutter 3 versi terbaru, aplikasi E-Commerce ini mencontohkan praktik terbaik untuk membangun aplikasi Flutter yang scalable (mudah dikembangkan), maintainable (mudah dirawat), dan efisien.
+Selamat datang di repositori FLUTTER-BELI.EL! Proyek ini adalah etalase praktik pengembangan aplikasi seluler modern, yang memanfaatkan kekuatan Flutter, Clean Architecture, dan paket BLoC (Business Logic Component). Dibangun menggunakan Flutter 3 versi terbaru, aplikasi E-Commerce ini mencontohkan praktik terbaik untuk membangun aplikasi Flutter yang scalable (mudah dikembangkan), maintainable (mudah dirawat), dan efisien.
 
 ## Fitu Utama::
 * **Arsitektur Bersih (Clean Architecture)**:Aplikasi ini mengikuti arsitektur modular yang memisahkan fokus (SoC) ke dalam lapisan-lapisan berbeda: Presentation, Domain, dan Data. Arsitektur ini mendukung penggunaan ulang kode dan memudahkan adaptasi terhadap perubahan di masa depan.
