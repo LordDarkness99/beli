@@ -83,7 +83,7 @@ We hope this Flutter-TDD-Clean-Architecture-E-Commerce-App serves as a valuable 
 
 1. Clone the repo
    ```sh
-   [git clone https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.git](https://github.com/fdwp03/Flutter-TDD-Clean-Architecture-E-Commerce-App-main.git)
+   https://github.com/fdwp03/Flutter-TDD-Clean-Architecture-E-Commerce-App-main.git
    ```
 2. Install packages
    ```sh
