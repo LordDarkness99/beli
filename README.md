@@ -79,8 +79,17 @@ To get started with this project, follow the instructions in the README to set u
 
 We hope this Flutter-TDD-Clean-Architecture-E-Commerce-App serves as a valuable resource for both Flutter enthusiasts and developers looking to learn about TDD, clean architecture, and BLoC in the context of mobile app development. Happy coding!
 
-### Installation
+### Sebelum Memasang Aplikasi
+Flutter SDK (minimal versi 3.0.0)
+1. Download di sini
+    ![Download Disini](https://docs.flutter.dev/get-started)
+2. Android Studio (disarankan versi terbaru)
+3. Android SDK Platform Tools
+4. Device/Emulator:
+     Emulator Android melalui Android Studio
+     atau perangkat fisik dengan USB Debugging
 
+### Memasang Aplikasi
 1. Clone the repo
    ```sh
    https://github.com/fdwp03/Flutter-TDD-Clean-Architecture-E-Commerce-App-main.git
@@ -89,13 +98,13 @@ We hope this Flutter-TDD-Clean-Architecture-E-Commerce-App serves as a valuable 
    ```sh
    flutter pub get
    ```
-3. Run app
+3. Deteksi Perangkat
    ```sh
-   flutter run lib/main.dart
+   flutter devices
    ```
-4. Run test
+4. Pilih Perangkat Untuk Dijalankan
    ```sh
-   flutter test
+   flutter run -d <device_id>
    ```
    
 For help getting started with Flutter, view our online
