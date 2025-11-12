@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">Flutter TDD Clean Architecture E-Commerce App - EShop</h3>
+  <h3 align="center">FLUTTER-BELI.EL</h3>
 </p>
 
 ![Deskripsi Gambar Anda](https://drive.google.com/file/d/1CerkuXoylQWryg-XSiraTqvwHKqWSOE3/view?usp=sharing)
